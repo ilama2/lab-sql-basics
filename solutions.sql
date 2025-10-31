@@ -11,6 +11,7 @@ WHERE district_id = 72
 ORDER BY client_id DESC
 LIMIT 1;
 
+
 -- Q3 Get the 3 lowest amounts in the loan table.
 SELECT amount 
 FROM loan 
